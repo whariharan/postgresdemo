@@ -1,0 +1,10 @@
+[
+    {
+    "type":"text",
+    "name":"color"
+},
+{
+    "type":"text",
+    "name":"newKey"
+}
+]
